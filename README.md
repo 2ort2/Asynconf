@@ -1,16 +1,15 @@
-# mon_premier_flutter
+Application de Rendez-vous - Salon de Coiffure 💇‍♀️
+Une application web permettant aux clients de prendre rendez-vous en ligne avec leur salon de coiffure préféré.
+Fonctionnalités 🌟
 
-A new Flutter project.
+Prise de rendez-vous en ligne 24h/24, 7j/7
+Sélection des services de coiffure
+Gestion du calendrier pour les professionnels
+Système de notifications par email
+Interface responsive (mobile, tablette, ordinateur)
 
-## Getting Started
+Technologies Utilisées 🛠️
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Frontend :flutter
+Base de données :firebase
+Authentification : OTP
